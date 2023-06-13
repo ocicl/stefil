@@ -1,0 +1,10 @@
+* stefil
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/stefil/stefil.git   |
+| commit  |   |
+| systems | stefil |
+|---------+-------------------------------------------|
+
