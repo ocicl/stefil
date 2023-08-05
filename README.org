@@ -1,10 +1,9 @@
 * stefil
 
+This is obsolete
 
-
-|---------+-------------------------------------------|
-| source  | git:https://gitlab.common-lisp.net/stefil/stefil.git   |
-| commit  |   |
-| systems | stefil |
-|---------+-------------------------------------------|
-
+|---------+------------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/stefil/stefil.git |
+| commit  | 0398548                                              |
+| systems | stefil                                               |
+|---------+------------------------------------------------------|
